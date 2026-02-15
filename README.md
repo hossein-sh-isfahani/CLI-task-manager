@@ -86,10 +86,5 @@ Have a good day!
 └── Todo.toml      # Project configuration (pyproject.toml)
 ```
 
-## License
-
-MIT
-
----
-
 *My first GitHub project — built with Python*
+https://roadmap.sh/projects/task-tracker
