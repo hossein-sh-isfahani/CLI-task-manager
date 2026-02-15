@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "task-manager-cli-by-Hossein"
+version = "1.0.0"
+description = "A simple command-line task manager for organizing and tracking tasks"
+readme = "Practice1.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+task-cli = "Practice1:main"
